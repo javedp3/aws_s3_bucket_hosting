@@ -7,5 +7,6 @@ variable "my_bucket_region" {
 variable "my_bucket_name" {
     description = "my bucket name"
     type = string
-    default = "demo-terraform-demo42buckeeett"
+    #default = "demo-terraform-demo42buckeeett"
+    default = "localhostdemos3bucket.com"
 }
