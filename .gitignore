@@ -5,3 +5,10 @@ crash.log
 *.backup
 *.tfvars
 *.tfvars.json
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+*.backup
+*.tfvars
+*.tfvars.json
